@@ -21,4 +21,4 @@
 -Scores are updated based on who wins 
 -User and computer scores are tracked, and after each round, current scores are displayed.
 
--The game continues until the user press 'q' to exit ending with a thankyou message
+-The game continues until the user press 'q' to exit ending with a thankyou message.
